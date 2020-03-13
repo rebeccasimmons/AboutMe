@@ -1,4 +1,4 @@
-# Assignment-1
+# About Me
 CPSC 4205
 
 Hello everyone!
